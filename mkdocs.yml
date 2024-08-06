@@ -56,29 +56,38 @@ markdown_extensions:
 # Page tree
 nav:
   - Overview: index.md
-  - Add / Manage Content: 
-      - add-manage-content/event.md
-      - add-manage-content/helpful-links.md
-      - add-manage-content/homepage-slides.md
-      - add-manage-content/job-posting.md
-      - add-manage-content/knowledge-base-item.md
-      - add-manage-content/licensure.md
-      - add-manage-content/material.md
-  - Admin:
-      - admin/block-types.md
-      - admin/conditional-fields.md
-      - admin/content-mod-workflow.md
-      - admin/content-types.md
-      - admin/feed-types.md
-      - admin/flags.md
-      - admin/media-types.md
-      - admin/menus.md
-      - admin/message-templates.md
-      - admin/paragraph-types.md
-      - admin/roles-permissions.md
-      - admin/taxonomies.md
-      - admin/views.md
-      - admin/webforms.md
+  - Add Content: 
+      - add-content/event.md
+      - add-content/helpful-links.md
+      - add-content/homepage-slides.md
+      - add-content/job-posting.md
+      - add-content/knowledge-base-item.md
+      - add-content/licensure.md
+      - add-content/material.md
+  - How Site is Built:
+      - how-site-is-built/block-types.md
+      - how-site-is-built/conditional-fields.md
+      - how-site-is-built/content-mod-workflow.md
+      - how-site-is-built/content-types.md
+      - how-site-is-built/feed-types.md
+      - how-site-is-built/flags.md
+      - how-site-is-built/media-types.md
+      - how-site-is-built/menus.md
+      - how-site-is-built/message-templates.md
+      - how-site-is-built/paragraph-types.md
+      - how-site-is-built/roles-permissions.md
+      - how-site-is-built/taxonomies.md
+      - how-site-is-built/views.md
+      - how-site-is-built/webforms.md
+  - Moderate Content:
+      - moderate-content/event.md
+      - moderate-content/job-posting.md
+      - moderate-content/moderation-workflow.md
+      - moderate-content/resource.md
+  - User Permissions and Approvals:
+      - user-permissions-and-approvals/new-user.md
+      - user-permissions-and-approvals/roles-permissions.md
+
 
 copyright:
   c 2023 Metropolitan Government of Nashville and Davidson County, GNU GENERAL PUBLIC LICENSE.
