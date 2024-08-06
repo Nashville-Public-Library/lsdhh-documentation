@@ -3,7 +3,7 @@
 Content Type  |  Description
 ---------- | -------------
 Admin Landing Page    | The content type used to create the State Admin Landing Page. This content type is only used for one node. Has custom fields and permissions so only admins can view it. 
-Announcement          | These are supposed to be visible on the home page of the LSDHH website. However, when published, they do not appear on the home page. Are these broken? Not in use? 
+Announcement          | These are supposed to be visible on the home page of the LSDHH website. However, when published, they do not appear on the home page. Are these broken? Not in use? These don't seem to be the messages in the top alert bar. 
 Article*              | I don't think we use this content type on the LSDHH site. 
 Assistive Device*     | Not sure if this is in use. 
 Event                 | Event listing for the LSDHH calendar or for state-page calendar listings. Event details includes geo-location informatoin in order to plot the event location on a map. Map is dislayed at the bottom of each event node. 
@@ -17,7 +17,7 @@ Licensure*	          | Licensure by state for interpreters and transliterators. 
 Material*	          | Seems related to the library catalog, but can't tell what these are or where they go.  
 Page*	              | Use basic pages for your static content, such as an 'About us' page. Page is not listed in the Content menu. Not sure where those are created and by whom. 
 Resource	          | Create a Resource listing to be included in the National Resource Website. Resources are tagged with categories.  
-Site Wide Alert	      | Site Wide Alert links to notify of location closures, etc. Not sure if these are displayed on all pages or if they can be customized and only shown on specific states. 
+Site Wide Alert	      | Site Wide Alert links to notify of location closures, etc. These are at the top of the site. Not sure if these are displayed on all pages or if they can be customized and only shown on specific states. 
 Splash*	              | Use splash content for pages that should have a minimal theme. There are only 5 nodes created with this content type. Not sure if this content type is used to make new content.   
 Webform	              | Create a new form or questionnaire accessible to users. Submission results and statistics are recorded and accessible to privileged users. Only available to site admin. 
 YouTube Video	      | Use to add a YouTube video to the site. Videos are tagged by video type so they display in the correct place. 
